@@ -6,13 +6,13 @@ Navigate to the file using cmd then use one of the following functions:
 
 1. add
 
-type "add (name of app or website) (password)"
+  type "add (name of app or website) (password)"
 
-Entering the password is optional. If you do not enter in the password a password will be randomly generated. The password will then be saved and copied.
+  Entering the password is optional. If you do not enter in the password a password will be randomly generated. The password will then be saved and copied.
 
-Example: passwords.py add microsoft pass1234
+  Example: passwords.py add microsoft pass1234
 
-pass1234 would be copied to the clipboard
+  pass1234 would be copied to the clipboard
 
 2. search
 

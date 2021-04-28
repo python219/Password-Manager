@@ -4,7 +4,7 @@ A very simple password manager with functions to create, add, search, or delete 
 # Usage
 Navigate to the file using cmd then use one of the following functions:
 
-1. add
+### 1. add
 
   type "add (name of app or website) (password)"
 
@@ -14,7 +14,7 @@ Navigate to the file using cmd then use one of the following functions:
 
   pass1234 would be copied to the clipboard
 
-2. search
+### 2. search
 
 type "search (name of app or website)"
 
@@ -24,7 +24,7 @@ Example: passwords.py search microsoft
 
 pass1234 would be copied to the clipboard
 
-3. delete
+### 3. delete
 
 type "delete (name of app or website)"
 

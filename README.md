@@ -4,9 +4,9 @@ A very simple password manager with functions to create, add, search, or delete 
 # Usage
 Navigate to the file using cmd then use one of the following functions:
 
-### 1. add
+### 1. Add
 
-  type "add (name of app or website) (password)"
+  Type "add (name of app or website) (password)"
 
   Entering the password is optional. If you do not enter in the password a password will be randomly generated. The password will then be saved and copied.
 
@@ -14,9 +14,9 @@ Navigate to the file using cmd then use one of the following functions:
 
   pass1234 would be copied to the clipboard and be saved.
 
-### 2. search
+### 2. Search
 
-type "search (name of app or website)"
+Type "search (name of app or website)"
 
 The program will search for a password added by the "add" function and then copy it to the clipboard.
 
@@ -24,9 +24,9 @@ Example: `passwords.py search github`
 
 pass1234 would be copied to the clipboard
 
-### 3. delete
+### 3. Delete
 
-type "delete (name of app or website)"
+Type "delete (name of app or website)"
 
 The program will search for the password and then delete it from the database.
 
